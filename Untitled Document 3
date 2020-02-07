@@ -1,0 +1,26 @@
+<html>
+<head>
+<body>
+<table border="2" width=50% bgcolor="lightblue" cellspacing="5" cellpadding="5" align="center" Bordercolor="dark">
+<caption align="above">food detalist</caption>
+<tr>
+<th>*</th>
+<th>apple</th>
+<th>orange</th>
+<th>grapes</th>
+</tr>
+<tr>
+<th>ramesh</th>
+<td>0</td>
+<td>01</td>
+<td>1</td>
+</tr>
+<tr>
+<th>suresh</th>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+</body>
+</head>
+</html>
